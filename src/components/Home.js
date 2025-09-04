@@ -1,6 +1,6 @@
 import React from "react";
 import studentImage from "../assets/Anii.jpg"; // Ensure path is correct
-import cvFile from "../assets/CV.jpg"; // Ensure path is correct
+import cvFile from "../assets/Anish.jpg"; // Ensure path is correct
 import { motion } from "framer-motion";
 import Marquee from "react-fast-marquee";
 
@@ -75,8 +75,8 @@ const Home = () => {
           speed={80}
           className="text-xl md:text-2xl font-semibold text-orange-400 mb-6"
         >
-          MERN Stack Developer ⚡ Frontend Engineer ⚡ Problem Solver ⚡ Open
-          Source Enthusiast ⚡
+          Looking for Frontend Developer ⚡ Frontend Engineer ⚡ Problem Solver
+          ⚡ Open Source Enthusiast ⚡
         </Marquee>
 
         {/* About Text */}
@@ -104,7 +104,7 @@ const Home = () => {
         >
           <a
             href={cvFile}
-            download="CV.jpg"
+            download="Anish.jpg"
             className="bg-orange-500 text-white px-6 py-3 rounded-full hover:bg-orange-600 transition duration-300 shadow-lg hover:shadow-[0_0_25px_rgba(255,165,0,0.8)]"
           >
             Download CV

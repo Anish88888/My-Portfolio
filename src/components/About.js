@@ -52,23 +52,23 @@ const About = () => {
               title: "My Experience",
               desc: (
                 <>
-                  Worked as a{" "}
+                  Completed a{" "}
                   <span className="font-semibold text-orange-400">
-                    Frontend Developer
+                    9-month Internship
                   </span>{" "}
-                  at{" "}
-                  <span className="font-semibold">TetraTrion Technologies</span>{" "}
-                  for over{" "}
-                  <span className="font-semibold text-orange-400">1 year</span>,
-                  where I designed and built responsive web interfaces using{" "}
+                  as a{" "}
+                  <span className="font-semibold">MERN Stack Developer</span> at{" "}
+                  <span className="font-semibold">TetraTrion Technologies</span>
+                  , where I worked on designing and developing responsive web
+                  applications using{" "}
                   <span className="font-semibold">React.js</span> and{" "}
                   <span className="font-semibold">Tailwind CSS</span>. I also
-                  gained extensive hands-on experience in full-stack development
+                  gained practical experience in building full-stack solutions
                   with{" "}
                   <span className="font-semibold">
                     MongoDB, Express.js, React.js, and Node.js
                   </span>
-                  , delivering scalable and efficient web applications.
+                  , contributing to scalable and efficient project delivery.
                 </>
               ),
             },
