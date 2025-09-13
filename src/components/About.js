@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import studentImage from "../assets/Anish.jpg";
+import studentImage from "../assets/Anishh.jpg";
 import Loader from "./Loader";
 
 const About = () => {
